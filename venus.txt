@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Venus is a nice placet and I definietely should consider it as a base
+=======
+Venus is not as good as Mars on first inspection
+>>>>>>> 587853073c891db5d8b481e3dd61c31923305f41
